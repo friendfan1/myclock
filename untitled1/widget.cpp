@@ -47,11 +47,15 @@ Widget::~Widget()
 
 void Widget::do_timer_timeout()
 {
-    if(time->hour() == 0 && time->minute() == 0 && time->second() == 1){
+    *time = time->addMSecs(-1000);
+    if(time->hour() == 0 && time->minute() == 0 && time->second() == 0){
         m_timer_counter->stop();
         m_timer->stop();
     }
-    *time = time->addMSecs(-1000);
+    if(time->hour() == 0){
+        ui->lcdh->setHidden(1);
+        return;
+    }
     ui->lcdh->display(time->hour());
     ui->lcdm->display(time->minute());
     ui->lcds->display(time->second());
