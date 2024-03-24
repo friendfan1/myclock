@@ -1,0 +1,8 @@
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/untitled1.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/edit_cache.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/rebuild_cache.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/list_install_components.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/install.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/install/local.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/untitled1_autogen_timestamp_deps.dir
+D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/untitled1_autogen.dir

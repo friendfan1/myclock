@@ -1,0 +1,10 @@
+# ninja log v5
+4	622	7329706153815985	untitled1_autogen/timestamp	7cba3efdf2d35799
+4	622	7329706153815985	untitled1_autogen/mocs_compilation.cpp	7cba3efdf2d35799
+4	622	7329706153815985	D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1_autogen/timestamp	7cba3efdf2d35799
+4	622	7329706153815985	D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1_autogen/mocs_compilation.cpp	7cba3efdf2d35799
+632	2338	7329706171945736	CMakeFiles/untitled1.dir/main.cpp.obj	d66eee972a373740
+624	2343	7329706171995728	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	2821665d765472c8
+635	2349	7329706172075733	CMakeFiles/untitled1.dir/form.cpp.obj	17d95a179180ff8
+628	2358	7329706172155755	CMakeFiles/untitled1.dir/widget.cpp.obj	ec8e017318079d6b
+2359	2695	7329706174441569	untitled1.exe	2035072a7a7767e8
