@@ -86,10 +86,14 @@ void Widget::do_timer_counter_timeout(){
 void Widget::on_pushButton_2_clicked()
 {
     w2->show();
+
 }
 
 void Widget::SetTime(int h,int m,int s){
     time->setHMS(h,m,s);
+    ui->lcdh->display(time->hour());
+    ui->lcdm->display(time->minute());
+    ui->lcds->display(time->second());
 }
 
 void Widget::keyPressEvent(QKeyEvent* event){
