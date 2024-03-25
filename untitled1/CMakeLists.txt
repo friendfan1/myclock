@@ -70,3 +70,4 @@ install(TARGETS untitled1
 if(QT_VERSION_MAJOR EQUAL 6)
     qt_finalize_executable(untitled1)
 endif()
+

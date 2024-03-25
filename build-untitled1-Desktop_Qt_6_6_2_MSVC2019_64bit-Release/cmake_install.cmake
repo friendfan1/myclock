@@ -1,4 +1,4 @@
-# Install script for directory: D:/work/MyClock/Clock_v2/untitled1
+# Install script for directory: D:/work/MyClock/Clock_v2/myclock/untitled1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,7 +33,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1.exe")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -44,5 +44,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

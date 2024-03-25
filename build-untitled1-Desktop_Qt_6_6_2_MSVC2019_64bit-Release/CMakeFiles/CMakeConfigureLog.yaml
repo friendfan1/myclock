@@ -39,7 +39,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
       
       The CXX compiler identification is MSVC, found in:
-        D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.exe
+        D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/3.27.7/CompilerIdCXX/CMakeCXXCompilerId.exe
       
   -
     kind: "message-v1"
@@ -51,7 +51,7 @@ events:
     message: |
       Detecting CXX compiler /showIncludes prefix:
         main.c
-        注意: 包含文件:  D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\ShowIncludes\\foo.h
+        注意: 包含文件:  D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\ShowIncludes\\foo.h
         
       Found prefix "注意: 包含文件:  "
   -
@@ -63,8 +63,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-dzjzxs"
-      binary: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-dzjzxs"
+      source: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-p01pnv"
+      binary: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-p01pnv"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
@@ -72,11 +72,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-dzjzxs'
+        Change Dir: 'D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-p01pnv'
         
-        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_50c98
-        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_50c98.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_50c98.dir\\ /FS -c D:\\Qt\\Tools\\CMake_64\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp
-        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_50c98.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_50c98.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_50c98.exe /implib:cmTC_50c98.lib /pdb:cmTC_50c98.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_04817
+        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\\cmTC_04817.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_04817.dir\\ /FS -c D:\\Qt\\Tools\\CMake_64\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp
+        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_04817.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_04817.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_04817.exe /implib:cmTC_04817.lib /pdb:cmTC_04817.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
   -
@@ -94,8 +94,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-mjmmg5"
-      binary: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-mjmmg5"
+      source: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-1jv0hx"
+      binary: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-1jv0hx"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -105,13 +105,13 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-mjmmg5'
+        Change Dir: 'D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-1jv0hx'
         
-        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_c6a02
-        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_c6a02.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_c6a02.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-mjmmg5\\src.cxx
-        \x1b[31mFAILED: \x1b[0mCMakeFiles/cmTC_c6a02.dir/src.cxx.obj 
-        "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_c6a02.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_c6a02.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-mjmmg5\\src.cxx
-        D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-mjmmg5\\src.cxx(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_b5193
+        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_b5193.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_b5193.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-1jv0hx\\src.cxx
+        \x1b[31mFAILED: \x1b[0mCMakeFiles/cmTC_b5193.dir/src.cxx.obj 
+        "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_b5193.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_b5193.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-1jv0hx\\src.cxx
+        D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-1jv0hx\\src.cxx(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
         ninja: build stopped: subcommand failed.
         
       exitCode: 1
@@ -129,8 +129,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-0hhd4a"
-      binary: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-0hhd4a"
+      source: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-yo8odc"
+      binary: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-yo8odc"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -140,14 +140,14 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-0hhd4a'
+        Change Dir: 'D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-yo8odc'
         
-        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_3a20a
-        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_3a20a.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_3a20a.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-0hhd4a\\CheckFunctionExists.cxx
-        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_3a20a.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_3a20a.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_3a20a.exe /implib:cmTC_3a20a.lib /pdb:cmTC_3a20a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        \x1b[31mFAILED: \x1b[0mcmTC_3a20a.exe 
-        cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_3a20a.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_3a20a.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_3a20a.exe /implib:cmTC_3a20a.lib /pdb:cmTC_3a20a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_3a20a.dir\\CheckFunctionExists.cxx.obj /out:cmTC_3a20a.exe /implib:cmTC_3a20a.lib /pdb:cmTC_3a20a.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_3a20a.dir/intermediate.manifest CMakeFiles\\cmTC_3a20a.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_c7b25
+        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_c7b25.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_c7b25.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-yo8odc\\CheckFunctionExists.cxx
+        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_c7b25.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_c7b25.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_c7b25.exe /implib:cmTC_c7b25.lib /pdb:cmTC_c7b25.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        \x1b[31mFAILED: \x1b[0mcmTC_c7b25.exe 
+        cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_c7b25.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_c7b25.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_c7b25.exe /implib:cmTC_c7b25.lib /pdb:cmTC_c7b25.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_c7b25.dir\\CheckFunctionExists.cxx.obj /out:cmTC_c7b25.exe /implib:cmTC_c7b25.lib /pdb:cmTC_c7b25.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_c7b25.dir/intermediate.manifest CMakeFiles\\cmTC_c7b25.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: 无法打开文件“pthreads.lib”
         ninja: build stopped: subcommand failed.
         
@@ -166,8 +166,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-gm6lol"
-      binary: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-gm6lol"
+      source: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-0wrfrl"
+      binary: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-0wrfrl"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -177,14 +177,14 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-gm6lol'
+        Change Dir: 'D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-0wrfrl'
         
-        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_14854
-        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_14854.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_14854.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-gm6lol\\CheckFunctionExists.cxx
-        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_14854.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_14854.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_14854.exe /implib:cmTC_14854.lib /pdb:cmTC_14854.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        \x1b[31mFAILED: \x1b[0mcmTC_14854.exe 
-        cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_14854.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_14854.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_14854.exe /implib:cmTC_14854.lib /pdb:cmTC_14854.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
-        LINK Pass 1: command "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_14854.dir\\CheckFunctionExists.cxx.obj /out:cmTC_14854.exe /implib:cmTC_14854.lib /pdb:cmTC_14854.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_14854.dir/intermediate.manifest CMakeFiles\\cmTC_14854.dir/manifest.res" failed (exit code 1104) with the following output:
+        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_688ff
+        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc -DCHECK_FUNCTION_EXISTS=pthread_create /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_688ff.dir\\CheckFunctionExists.cxx.obj /FdCMakeFiles\\cmTC_688ff.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-0wrfrl\\CheckFunctionExists.cxx
+        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_688ff.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_688ff.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_688ff.exe /implib:cmTC_688ff.lib /pdb:cmTC_688ff.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        \x1b[31mFAILED: \x1b[0mcmTC_688ff.exe 
+        cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_688ff.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_688ff.dir\\CheckFunctionExists.cxx.obj  /out:cmTC_688ff.exe /implib:cmTC_688ff.lib /pdb:cmTC_688ff.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_688ff.dir\\CheckFunctionExists.cxx.obj /out:cmTC_688ff.exe /implib:cmTC_688ff.lib /pdb:cmTC_688ff.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_688ff.dir/intermediate.manifest CMakeFiles\\cmTC_688ff.dir/manifest.res" failed (exit code 1104) with the following output:
         LINK : fatal error LNK1104: 无法打开文件“pthread.lib”
         ninja: build stopped: subcommand failed.
         
@@ -208,8 +208,8 @@ events:
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-pmb72y"
-      binary: "D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-pmb72y"
+      source: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-khlqno"
+      binary: "D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-khlqno"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -219,11 +219,11 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: 'D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-pmb72y'
+        Change Dir: 'D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/CMakeFiles/CMakeScratch/TryCompile-khlqno'
         
-        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_7813a
-        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP -DHAVE_STDATOMIC  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_7813a.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_7813a.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-pmb72y\\src.cxx
-        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_7813a.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_7813a.dir\\src.cxx.obj  /out:cmTC_7813a.exe /implib:cmTC_7813a.lib /pdb:cmTC_7813a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        Run Build Command(s): D:/ProgramData/anaconda3/Library/bin/ninja.exe -v cmTC_f7e9a
+        [1/2] "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe"  /nologo /TP -DHAVE_STDATOMIC  /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 -std:c++17 /showIncludes /FoCMakeFiles\\cmTC_f7e9a.dir\\src.cxx.obj /FdCMakeFiles\\cmTC_f7e9a.dir\\ /FS -c D:\\work\\MyClock\\Clock_v2\\myclock\\build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release\\CMakeFiles\\CMakeScratch\\TryCompile-khlqno\\src.cxx
+        [2/2] cmd.exe /C "cd . && D:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe -E vs_link_exe --intdir=CMakeFiles\\cmTC_f7e9a.dir --rc="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\rc.exe" --mt="D:\\Windows Kits\\10\\bin\\10.0.19041.0\\x64\\mt.exe" --manifests  -- "D:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\Hostx64\\x64\\link.exe" /nologo CMakeFiles\\cmTC_f7e9a.dir\\src.cxx.obj  /out:cmTC_f7e9a.exe /implib:cmTC_f7e9a.lib /pdb:cmTC_f7e9a.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
         
       exitCode: 0
 ...

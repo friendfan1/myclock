@@ -1,4 +1,4 @@
-D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1_autogen/EWIEGA46WW/moc_widget.cpp: D:/work/MyClock/Clock_v2/untitled1/widget.h \
+D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1_autogen/EWIEGA46WW/moc_widget.cpp: D:/work/MyClock/Clock_v2/myclock/untitled1/widget.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/QList \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/QObject \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/QRect \
@@ -162,4 +162,4 @@ D:/work/MyClock/Clock_v2/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release
   D:/Qt/6.6.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtWidgets/qwidget.h \
-  D:/work/MyClock/Clock_v2/untitled1/form.h
+  D:/work/MyClock/Clock_v2/myclock/untitled1/form.h

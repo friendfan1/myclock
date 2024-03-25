@@ -51,10 +51,13 @@ void Widget::do_timer_timeout()
     if(time->hour() == 0 && time->minute() == 0 && time->second() == 0){
         m_timer_counter->stop();
         m_timer->stop();
+        flag = 0;
     }
     if(time->hour() == 0){
         ui->lcdh->setHidden(1);
-        return;
+        if(time->minute() == 0){
+            ui->lcdm->setHidden(1);
+        }
     }
     ui->lcdh->display(time->hour());
     ui->lcdm->display(time->minute());
@@ -95,6 +98,9 @@ void Widget::on_pushButton_2_clicked()
 
 void Widget::SetTime(int h,int m,int s){
     time->setHMS(h,m,s);
+    ui->lcdh->setHidden(0);
+    ui->lcdm->setHidden(0);
+    ui->lcds->setHidden(0);
     ui->lcdh->display(time->hour());
     ui->lcdm->display(time->minute());
     ui->lcds->display(time->second());
