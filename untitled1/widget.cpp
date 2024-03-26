@@ -109,7 +109,11 @@ void Widget::SetTime(int h,int m,int s){
 void Widget::keyPressEvent(QKeyEvent* event){
     if (event->modifiers() == Qt::ControlModifier && event->key() == Qt::Key_S) {
         w2->show();
-    } else if(event->modifiers() == Qt::ControlModifier && event->key() == Qt::Key_A){
+        m_timer->stop();
+        m_timer_counter->stop();
+        flag = 0;
+  }
+    else if(event->modifiers() == Qt::ControlModifier && event->key() == Qt::Key_A){
         if(flag == 0){
             m_timer->start(1000);
             m_timer_counter->start((time->hour()*3600+time->minute()*60+time->second())*1000);
