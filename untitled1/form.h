@@ -2,6 +2,7 @@
 #define FORM_H
 
 #include <QWidget>
+#include <QKeyEvent>
 
 namespace Ui {
 class Form;
@@ -19,6 +20,7 @@ public:
     //int *GetHMS();
 private slots:
     void on_pushButton_clicked();
+    void keyPressEvent(QKeyEvent *event);
 
 private:
     Ui::Form *ui;

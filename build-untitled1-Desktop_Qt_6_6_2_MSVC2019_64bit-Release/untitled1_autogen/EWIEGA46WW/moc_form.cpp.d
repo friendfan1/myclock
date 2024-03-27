@@ -1,4 +1,9 @@
 D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit-Release/untitled1_autogen/EWIEGA46WW/moc_form.cpp: D:/work/MyClock/Clock_v2/myclock/untitled1/form.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/QList \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/QObject \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/QRect \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/QSize \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/QSizeF \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/q20functional.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/q20memory.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/q20type_traits.h \
@@ -27,6 +32,7 @@ D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qcontainerinfo.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qcontainertools_impl.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qcontiguouscache.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/qcoreevent.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qdarwinhelpers.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qdatastream.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qdebug.h \
@@ -41,6 +47,7 @@ D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qglobalstatic.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qhash.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qhashfunctions.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/qiodevice.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qiodevicebase.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qiterable.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qiterator.h \
@@ -56,6 +63,7 @@ D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qmetatype.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qminmax.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qnamespace.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/qnativeinterface.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qnumeric.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qobject.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qobject_impl.h \
@@ -64,6 +72,7 @@ D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qoverload.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qpair.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qpoint.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/qpointer.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qprocessordetection.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qrect.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qrefcount.h \
@@ -107,34 +116,44 @@ D:/work/MyClock/Clock_v2/myclock/build-untitled1-Desktop_Qt_6_6_2_MSVC2019_64bit
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qtversionchecks.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qtypeinfo.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qtypes.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtCore/qurl.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qutf8stringview.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qvariant.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qvarlengtharray.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qversiontagging.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtCore/qxptype_traits.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/QKeyEvent \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/QTransform \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qaction.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qbitmap.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qbrush.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qcolor.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qcursor.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qevent.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qeventpoint.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qfont.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qfontinfo.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qfontmetrics.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qicon.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qimage.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qinputdevice.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qkeysequence.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qpaintdevice.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qpalette.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qpixelformat.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qpixmap.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qpointingdevice.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qpolygon.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qregion.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qrgb.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qrgba64.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qscreen.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qtgui-config.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qtguiexports.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qtguiglobal.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qtransform.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qvector2d.h \
+  D:/Qt/6.6.2/msvc2019_64/include/QtGui/qvectornd.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qwindowdefs.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
   D:/Qt/6.6.2/msvc2019_64/include/QtWidgets/QWidget \
